@@ -1,0 +1,5 @@
+{
+  "name": "AngoChat",
+  "description": "Plataforma angolana de partilha de vídeos curtos com recompensas em AngoCoins. Partilha. Dança. Ganha.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
